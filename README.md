@@ -1,3 +1,7 @@
-<h1>Sistema de Regitro</h1>
+<h1>Sister of Register</h1>
 
--Estado del proyecto: En construccion.
+-state of project: in contruction.
+
+for run the sister, you must put
+
+```npm install react```
