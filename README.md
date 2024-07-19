@@ -5,3 +5,5 @@
 for run the sister, you must put
 
 ```npm install react```
+
+Sister of Register 2
